@@ -1,0 +1,29 @@
+body{
+  background-color:#FFE3E3;
+}
+h1{
+  color: #8E2657;
+  text-align: center;
+}
+h3{
+  color: #986D8E;
+
+}
+p{
+    text-align: justify;
+
+}
+a{
+  text-decoration: none;
+}
+thead{
+  color: #A73489
+}
+
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 7px;
+width: 5%;
+}
